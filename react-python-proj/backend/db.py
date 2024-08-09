@@ -1,3 +1,2 @@
-print("This is my db file")
-db = 24
-print(f"my db size is {db} GB")
+if __name__ == "__main__":
+  print("This is my app file")
